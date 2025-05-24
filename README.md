@@ -55,7 +55,8 @@ A Java-based Hotel Management System with a Swing GUI and MySQL database integra
 
 
 ﻿# hotelmanagement
-![image](https://github.com/user-attachments/assets/4e3d4b6e-c333-4b12-a836-c1169ba86e7b)
+![image](https://github.com/user-attachments/assets/43ca8fbf-df82-4a7e-9cf1-000032e0b976)
+
 
 # admin dashboard
 ![image](https://github.com/user-attachments/assets/83f85365-3fdb-4135-96fd-f069c64e0ece)
